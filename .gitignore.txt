@@ -1,0 +1,2 @@
+__pycache__
+C:\Users\Lenovo\Django\htmlpages\home\__pycache__
